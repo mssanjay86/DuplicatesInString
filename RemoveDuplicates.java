@@ -2,7 +2,7 @@ package DuplicatesInString;
 
 public class RemoveDuplicates {
 	public static void main(String[] args) {
-		String str = "aaabbcc";
+		String str = "Java";
 		System.out.print("Given string: " + str);
 		char[] charArr = str.toCharArray();
 		for (int i = 0; i < charArr.length; i++) {
